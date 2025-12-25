@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+__pycache__/
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
